@@ -3,3 +3,4 @@ function squareRoot(num) {
   return result;
 }
 
+console.log(squareRoot(8));
