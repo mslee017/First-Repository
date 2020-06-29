@@ -4,3 +4,5 @@ function squareRoot(num) {
 }
 
 console.log(squareRoot(8));
+
+let purple = "This should be purple";
